@@ -1,0 +1,19 @@
+{
+  "name": "boilerplateapinodejs",
+  "version": "1.0.0",
+  "description": "Boilerplate API node js",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.12"
+  }
+}
